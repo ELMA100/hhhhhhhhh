@@ -1,0 +1,73 @@
+ </style>
+ </head>
+ <body>
+  <div class="bee-page-container">
+   <div class="bee-row bee-row-1">
+    <div class="bee-row-content no_stack">
+     <div class="bee-col bee-col-1 bee-col-w12">
+      <div class="bee-block bee-block-1 bee-addon">
+       <img alt="Image" class="bee-center bee-fixedwidth" src="https://media3.giphy.com/media/tGbhyv8Wmi4EM/giphy.gif?cid=20eb4e9dkg89kdu22dgluqwm3mrgb6nbwts1jwikboj3gium&amp;rid=giphy.gif&amp;ct=g" style="max-width:225px;">
+      </div>
+      <div class="bee-block bee-block-2 bee-spacer">
+       <div class="spacer" style="height:60px;">
+       </div>
+      </div>
+      <div class="bee-block bee-block-3 bee-button">
+       <a class="bee-button-content" href="https://www.httrack.com/page/2/" style="font-size: 14px; line-height: 28px; font-family: inherit; background-color: #8a3b8f; border-bottom: 1px solid #8a3b8f; border-left: 1px solid #8a3b8f; border-radius: 20px; border-right: 1px solid #8a3b8f; border-top: 1px solid #8a3b8f; color: #ffffff; letter-spacing: 0px; max-width: 100%; padding-bottom: 0px; padding-left: 20px; padding-right: 20px; padding-top: 0px; width: 50%; display: inline-block;">
+        <span style="font-size: 16px; line-height: 200%; word-break: break-word; letter-spacing: normal;">
+         Button
+        </span></a>
+      </div>
+      <div class="bee-block bee-block-4 bee-form">
+       <form accept-charset="UTF-8" action="ACTION_PLACEHOLDER" autocomplete="on" enctype="multipart/form-data" method="post" target="_self">
+        <div class="bee-form-row">
+        </div>
+        <div class="bee-form-row">
+        </div>
+        <div class="bee-form-row">
+         <div class="bee-field bee-field-id_11x251">
+          <label for="id_11x251">
+           Email
+          </label>
+          <input id="id_11x251" name="email" required="" type="text">
+         </div>
+        </div>
+        <div class="bee-form-row">
+        </div>
+        <div class="bee-form-row">
+        </div>
+        <div class="bee-form-row">
+        </div>
+        <div class="bee-form-row">
+        </div>
+        <div class="bee-form-row">
+        </div>
+        <div class="bee-form-row">
+        </div>
+        <div class="bee-form-row">
+         <div class="bee-field bee-field-id_a2g7mh">
+          <input id="id_a2g7mh" name="privacy_policy" type="checkbox">
+          <label class="inline" for="id_a2g7mh">
+           I agree to the
+           <a href="https://your_privacy_url">
+            Privacy Policy</a>
+          </label>
+         </div>
+        </div>
+        <div class="bee-form-row">
+         <div class="bee-field bee-field-id_x7xv9x">
+          <div class="bee-button-container">
+           <button id="id_x7xv9x" name="submit" type="submit" value="SIGN IN">
+            SIGN IN
+           </button>
+          </div>
+         </div>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
